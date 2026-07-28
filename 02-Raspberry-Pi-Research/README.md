@@ -36,8 +36,17 @@ Each team member researched different topics from the magazine and reflected on 
 
 | File | Description |
 |------|-------------|
-| `RPOM-161.pdf` | Raspberry Pi Official Magazine (Issue 161) used as the primary research resource. |
+| Raspberry Pi Official Magazine – Issue 161 | Reference material used for the assignment. Available from the official Raspberry Pi website. |
 | `A01 Team EVO ITAI 2374 2026Spr.pdf` | Team research assignment summarizing each member's findings and reflections from the magazine. |
+
+---
+## Reference
+
+This assignment was based on the official Raspberry Pi Magazine.
+
+**Raspberry Pi Official Magazine – Issue 161**
+
+https://magpi.raspberrypi.com/issues/161/pdf/download
 
 ---
 
